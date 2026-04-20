@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake",
+  "description": "A vibrant, neon-themed multiplayer snake game with bots and local 2-player mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
